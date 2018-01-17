@@ -1,4 +1,5 @@
-Hi, my name is Bernard Kung. I'm a recent graduate from Northeastern University with an MS in Operations Research. Here are some of the projects I have on github:
+## Hi, my name is Bernard Kung. 
+I'm a recent graduate from Northeastern University with an MS in Operations Research. Here are some of the projects I have on github:
 
 [Optimizing Radiation](https://bernardkung.github.io/OptimizingRadiation/)
 
