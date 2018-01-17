@@ -11,7 +11,7 @@ Optimization project for a 128-beam array for radiation therapy, with models tha
 
 A recent viral video outlined some of the pay disparities that exist between teachers and administrators in the public school system. As it turns out, their salaries are readily available as public information in some states. This analysis focuses on two states, Pennsylvania and Ohio, with a goal of exploring any patterns of pay disparity which may exist.
 
-[![Foo](https://github.com/bernardkung/bkung/blob/master/images/goodreads_image.jpg?raw=true)](https://bernardkung.github.io/OptimizingRadiation/)
+[![Foo](https://github.com/bernardkung/bkung/blob/master/images/goodreads_image.jpg?raw=true)](https://bernardkung.github.io/goodreads/)
 
 [Goodreads](https://bernardkung.github.io/goodreads/)
 
