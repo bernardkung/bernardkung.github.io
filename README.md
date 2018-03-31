@@ -17,6 +17,7 @@ A comment on a recent Youtube video pointed out that public educator salaries ar
 
 [![Foo](https://raw.githubusercontent.com/bernardkung/Election2016/master/visualizations/election2016_absoluteVAP_highestoffice.png?raw=true)](https://bernardkung.github.io/Election2016)
 
+For fun plotting of 2016 election data choropleths using Python and plotly. 
 
 #### [Goodreads](https://bernardkung.github.io/goodreads/)
 
