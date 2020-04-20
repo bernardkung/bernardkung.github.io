@@ -18,4 +18,4 @@ Just some quick thoughts, it's pretty straightforward for now.
 
 ## A Spontaneous Project
 
-Oh, I also slapped together a [quick Python script](https://raw.githubusercontent.com/bernardkung/bernardkung.github.io/master/create_post.py) for creating these blog posts. Basically it just prompts the user to enter a title, and it'll automatically reformat since I also need a variation with the date appended, the markdown file format appended, and the spaces replaced with dashes. It'll create a file in the required location, and put in the required heading. 
+Oh, I also slapped together a [quick Python script](https://github.com/bernardkung/bernardkung.github.io/blob/master/create_post.py) for creating these blog posts. Basically it just prompts the user to enter a title, and it'll automatically reformat since I also need a variation with the date appended, the markdown file format appended, and the spaces replaced with dashes. It'll create a file in the required location, and put in the required heading. 
