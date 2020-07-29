@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript 30 Day 2: JS and CSS Clock
+title: Javascript30 Day 2 - JS and CSS Clock
 date: 2020-07-27
 ---
 

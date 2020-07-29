@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript30 Day 1: Javascript Drum Kit
+title: Javascript30 Day 1 - Javascript Drum Kit
 date: 2020-07-26
 ---
 
