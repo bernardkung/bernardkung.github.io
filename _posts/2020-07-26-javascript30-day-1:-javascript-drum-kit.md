@@ -4,6 +4,8 @@ title: Javascript30 Day 1 - Javascript Drum Kit
 date: 2020-07-26
 ---
 
+##[Page Link](http://www.bkung.com/projects/01/drumkit.html)
+
 ## Introduction
 
 I've been looking for projects to work on since finishing up Colt Steele's [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) course on Udemy, and I came across [Javascript30](javacript30.com)- a set of 30 free exercises in CSS and vanilla JS. 
