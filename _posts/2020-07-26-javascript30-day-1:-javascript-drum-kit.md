@@ -4,7 +4,7 @@ title: Javascript30 Day 1 - Javascript Drum Kit
 date: 2020-07-26
 ---
 
-##[Page Link](http://www.bkung.com/projects/01/drumkit.html)
+## [Page Link](http://www.bkung.com/projects/01/drumkit.html)
 
 ## Introduction
 

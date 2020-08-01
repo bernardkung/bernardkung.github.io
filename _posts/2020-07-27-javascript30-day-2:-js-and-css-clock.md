@@ -4,7 +4,7 @@ title: Javascript30 Day 2 - JS and CSS Clock
 date: 2020-07-27
 ---
 
-##[Page Link](http://www.bkung.com/projects/02/clock.html)
+## [Page Link](http://www.bkung.com/projects/02/clock.html)
 
 ## Introduction
 
